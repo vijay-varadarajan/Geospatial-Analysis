@@ -139,7 +139,7 @@ The map includes:
 
 - **Population Density**: Markers indicate population concentration, with color and size varying by density.
 - **Hospital Locations**: Hospitals are marked, with accessible regions shaded based on the isochrone analysis.
-  The region coloured green suggest good access, while the population in the region coloured red have poor access.
+- The region coloured green suggest good access, while the population in the region coloured red have poor access.
 - **Access Legend**: A legend displays population access levels, indicating areas with high or low accessibility.
 
 ## Results and Insights
