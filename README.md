@@ -146,8 +146,11 @@ The map includes:
 ## Future Improvements
 
 1. **Dynamic Data Integration**: Automate data updates to reflect real-time changes in population or healthcare facilities.
-2. **Additional Health Services**: Extend the analysis to other healthcare facilities like clinics and pharmacies.
+2. **Addition of Health Services**: Extend the analysis recommend optimal locations to place new healthcare facilities to improve accessibility.
 3. **Accessibility Scenarios**: Include different transport modes or access times (e.g., 15 minutes, 1 hour) to study varying levels of accessibility.
 
 This project provides a foundational framework for analyzing healthcare accessibility across geographies, inspired by the Timor Leste case study but applied to India's specific regional and demographic context. The visualization and analysis approach can be adapted to other regions or services as required.
 
+## References
+
+[The Timor Leste case study](https://medium.com/towards-data-science/an-open-data-driven-approach-to-optimising-healthcare-facility-locations-using-python-397b3ce38185?sk=9b9ab370d93fb60929511dea42be000d)
