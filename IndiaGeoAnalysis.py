@@ -256,7 +256,7 @@ m
 # ### Get isochrone polygons using ORS API and calculate percentage of population access
 
 # %%
-ors_api_key = '5b3ce3597851110001cf6248d927ceffe3b9425e8ae2d27d5bdfc2ed'
+ors_api_key = 'ORS_API_KEY_HERE'
 
 # %%
 def get_isochrone_osm (each_hosp):
