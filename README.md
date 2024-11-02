@@ -1,8 +1,11 @@
-# Healthcare Accessibility Analysis in India (Inspired by Timor Leste Case Study)
+# Healthcare Accessibility Analysis in India 
+(Inspired by Timor Leste Case Study)
 
 ## Overview
 
 This project analyzes healthcare accessibility across India's regions, taking inspiration from a similar study conducted for Timor Leste. The study provides a visual representation of population distribution, hospitals, and areas accessible within a certain time limit around healthcare facilities. It leverages geospatial data and population datasets to identify regions with limited healthcare access and visualize results on interactive maps.
+
+Navigate to **./Access_analysis_result_maps/** to view the results of the analysis
 
 ## Table of Contents
 
@@ -136,6 +139,7 @@ The map includes:
 
 - **Population Density**: Markers indicate population concentration, with color and size varying by density.
 - **Hospital Locations**: Hospitals are marked, with accessible regions shaded based on the isochrone analysis.
+- The region coloured green suggest good access, while the population in the region coloured red have poor access.
 - **Access Legend**: A legend displays population access levels, indicating areas with high or low accessibility.
 
 ## Results and Insights
@@ -146,8 +150,11 @@ The map includes:
 ## Future Improvements
 
 1. **Dynamic Data Integration**: Automate data updates to reflect real-time changes in population or healthcare facilities.
-2. **Additional Health Services**: Extend the analysis to other healthcare facilities like clinics and pharmacies.
+2. **Addition of Health Services**: Extend the analysis recommend optimal locations to place new healthcare facilities to improve accessibility.
 3. **Accessibility Scenarios**: Include different transport modes or access times (e.g., 15 minutes, 1 hour) to study varying levels of accessibility.
 
 This project provides a foundational framework for analyzing healthcare accessibility across geographies, inspired by the Timor Leste case study but applied to India's specific regional and demographic context. The visualization and analysis approach can be adapted to other regions or services as required.
 
+## References
+
+[The Timor Leste case study](https://medium.com/towards-data-science/an-open-data-driven-approach-to-optimising-healthcare-facility-locations-using-python-397b3ce38185?sk=9b9ab370d93fb60929511dea42be000d)
