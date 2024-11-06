@@ -146,6 +146,11 @@ The map includes:
 
 - **Population with Access**: The percentage of the population with access to healthcare is calculated, giving a quantifiable measure of healthcare reach.
 - **Accessibility Disparity**: Regions with lower access are visually highlighted, providing a focus for policy or healthcare infrastructure improvements.
+- **Interactive Map**: The interactive map allows users to explore population distribution, hospital locations, and accessibility areas.
+
+```html
+<a href="./Access_analysis_result_maps/Adilabad_Telangana_access.html" target="_blank">Open Interactive Map</a>
+```
 
 ## Future Improvements
 
