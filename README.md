@@ -148,7 +148,28 @@ The map includes:
 - **Accessibility Disparity**: Regions with lower access are visually highlighted, providing a focus for policy or healthcare infrastructure improvements.
 - **Interactive Map**: The interactive map allows users to explore population distribution, hospital locations, and accessibility areas.
 
-<a href="./Access_analysis_result_maps/Adilabad_Telangana_access.html" target="_blank">Open Interactive Map</a>
+<div style="display: flex; flex-wrap: wrap; ">
+  <div style="flex: 1; margin: 3px;">
+    <img src="./sample_results/Screenshot%202024-11-02%20102239.png" alt="Wayanad, Kerala" style="width: 100%;">
+    <p style="text-align: center;">Wayanad, Kerala</p>
+  </div>
+  <div style="flex: 1; margin: 3px;">
+    <img src="./sample_results/Screenshot%202024-11-02%20102403.png" alt="Patna, Bihar" style="width: 100%;">
+    <p style="text-align: center;">Patna, Bihar</p>
+  </div>
+  <div style="flex: 1; margin: 3px;">
+    <img src="./sample_results/Screenshot%202024-11-02%20102443.png" alt="Cuddalore, Tamilnadu" style="width: 100%;">
+    <p style="text-align: center;">Cuddalore, Tamilnadu</p>
+  </div>
+  <div style="flex: 1; margin: 3px;">
+    <img src="./sample_results/Screenshot%202024-11-02%20102657.png" alt="Nadia, West Bengal" style="width: 100%;">
+    <p style="text-align: center;">Nadia, West Bengal</p>
+  </div>
+  <div style="flex: 1; margin: 3px;">
+    <img src="./sample_results/Screenshot%202024-11-02%20102805.png" alt="Mysore, Karnataka" style="width: 100%;">
+    <p style="text-align: center;">Mysore, Karnataka</p>
+  </div>
+</div>
 
 
 ## Future Improvements
