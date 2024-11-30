@@ -5,7 +5,7 @@
 
 This project analyzes healthcare accessibility across India's regions, taking inspiration from a similar study conducted for Timor Leste. The study provides a visual representation of population distribution, hospitals, and areas accessible within a certain time limit around healthcare facilities. It leverages geospatial data and population datasets to identify regions with limited healthcare access and visualize results on interactive maps.
 
-Navigate to **./Access_analysis_result_maps/** to view the results of the analysis
+Navigate to ```./Access_analysis_result_maps/``` to view the results of the analysis
 
 ## Table of Contents
 
