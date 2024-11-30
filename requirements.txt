@@ -1,0 +1,10 @@
+gadm
+hdx-python-api
+requests
+geopandas
+fiona
+chart_studio
+folium
+pandas
+numpy
+itertools
